@@ -167,5 +167,5 @@ function play(guild, song) {
 }
 
 // ใส่ Token ของคุณตรงนี้
-const TOKEN = 'ใส่ Token ของคุณตรงนี้';
+const TOKEN = 'MTM0MTY3NzM2Mzg2MzIyNDM2Mg.GQrqgd.00eLN4syabcPomXG-O4NuGiCSva1RltZUktfoM';
 client.login(TOKEN);
